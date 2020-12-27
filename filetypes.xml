@@ -5,6 +5,7 @@
       <mapping pattern="tah" type="PLAIN_TEXT" />
       <mapping pattern="tahi'" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="Python" />
+      <mapping ext="demo" type="Python" />
     </extensionMap>
   </component>
 </application>
